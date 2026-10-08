@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=CTIA Lab - beginner-brute-force-001
+GenericName=CTIA Guided Lab
+Comment=Start the lab server (real bash terminal) and open the walkthrough
+Exec=bash -c "cd $(dirname %k) && exec bash ./start-lab.sh"
+Icon=utilities-terminal
+Terminal=true
+Categories=Education;Development;
+Keywords=CTIA;security;lab;threat;hunting;
