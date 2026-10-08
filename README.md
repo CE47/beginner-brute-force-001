@@ -163,7 +163,6 @@ clear your browser's site data for `127.0.0.1`.
 | `sysmon_process.log` | Sysmon file-write records |
 | `dns_queries.log` | name lookups |
 | `dhcp_leases.log` | which device owns which address |
-| `beginner-brute-force-001.scenario` | the original incident brief |
 
 **The five `.log` files are read-only evidence.** They are the record of what happened.
 Do not edit them, and do not delete them. If a command does not work, read the step
